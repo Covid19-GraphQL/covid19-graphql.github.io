@@ -1,3 +1,2 @@
-# covid19-graphql.github.io
+# Initial page
 
-Website for trying some things out
